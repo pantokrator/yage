@@ -1,4 +1,4 @@
-#include <windows.h>
+#include "main.h"
 
 
 int main (void)
